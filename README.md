@@ -26,8 +26,5 @@ This project is an end to end data science project that is able to predict the c
  b. Created app.py and the webpage page it will render to.<br>
  c. Created an EC2 instance over RHEL8.<br>
  d. Similarly Deployed all models and connected them to the home page inside apache web server.<br>
- 
- # Project Created by:
-  [Devansh Sharma](https://www.linkedin.com/in/aboutdevansh/)        
-  [Bedanta Bhandar Kayastha](https://www.linkedin.com/in/bedanta-bhandar-kayastha-ba39251b2/)
+
  
